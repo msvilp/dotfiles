@@ -1,5 +1,6 @@
-- clean: []
+- clean: ['~']
 - link: 
     ~/.gitconfig: gitconfig
+    ~/.emacs.d: emacs.d/
 
 - shell: []
