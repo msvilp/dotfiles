@@ -13,3 +13,4 @@
 (setq 
   uniquify-buffer-name-style 'post-forward
   uniquify-separator ":")
+(setq-default puppet-indent-level 4)
